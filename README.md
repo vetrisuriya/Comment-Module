@@ -1,4 +1,4 @@
-<h1 align="center">YelpCamp</h1>
+<h1 align="center">Comment Module</h1>
 
 <div align="center">
   <h3>
